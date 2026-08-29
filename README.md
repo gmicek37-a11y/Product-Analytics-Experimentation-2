@@ -2,7 +2,7 @@
 
 > _(one-line growth thesis)_
 
-_Your name · Product Experimentation · date_
+_Gina A Micek· Product Experimentation · August 29, 2026
 
 This repo is my final project for the **Product Experimentation Certification** — a growth strategy for FinWise. One folder per module; this README is **The Story** that ties them together, and the source for the pitch you generate with the **Final Project Deliverables Prompt Generator**.
 
