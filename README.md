@@ -1,6 +1,6 @@
 # FinWise, A Product-Led Growth Strategy
 
-> _(one-line growth thesis)_
+> _FinWise grows by getting small business owners to real financial clarity fast enough to break through its conversion ceiling, then keeping subscription revenue alive by closing the seasonal value gap that's currently capping year-one retention.
 
 _Gina A Micek· Product Experimentation · August 29, 2026
 
@@ -25,11 +25,11 @@ This repo is my final project for the **Product Experimentation Certification** 
 
 ## The Story
 
-**Growth thesis:** _one line — the through-line from bet to model._
+**Growth thesis:** _FinWise grows by getting small business owners to real financial clarity fast enough to break through its conversion ceiling, then keeping subscription revenue alive by closing the seasonal value gap that's currently capping year-one retention.
 
-- **One friction.** _the hard part; what fought you._
-- **One Aha.** _the moment the strategy clicked._
-- **Takeaways.** _what stuck about experimentation as a system._
+- **One friction.** We had to keep re-diagnosing the same problem because the data kept refusing to confirm the story we'd already built.
+- **One Aha.** _When the Ceiling classification landed, and it quietly contradicted the biggest thing we'd already built.
+- **Takeaways.** _Experimentation isn't a way to prove your hypothesis right — it's the only mechanism in this whole process that reliably catches you when you're wrong, and it only works if you let it.
 
 ---
 
